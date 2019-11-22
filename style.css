@@ -1,0 +1,14 @@
+P{
+color: green;
+}
+
+.block img{
+    width: 400px;
+    height: 300;
+}
+
+.block p{
+    color: indigo;
+    font-style: italic;
+    font-size: large;
+}
